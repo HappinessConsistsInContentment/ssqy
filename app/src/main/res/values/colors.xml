@@ -3,4 +3,34 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="transparent_background">#0FFF</color>
+    <color name="text_common_default">#444</color>
+    <color name="background_color_dark">#732322</color>
+
+
+    <color name="login_divider_color_normal">#999</color>
+    <color name="text_color_red">#ae5a5b</color>
+
+    <color name="google_blue">#4285F4</color>
+    <color name="google_red">#EA4335</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorLightBlack">#9c9595</color>
+    <color name="colorWhite">#f5f2f2</color>
+    <color name="colorGrey">#e4e4e4</color>
+    <color name="textColorGrey">#646464</color>
+    <color name="colorTransBlack">#66000000</color>
+    <color name="colorTransWhite">#00ffffff</color>
+
+
+    <color name="date_pre_color">#44010101</color>
+    <color name="date_select_color">#66d8ec</color>
+    <color name="date_text_color">#010101</color>
+    <color name="date_other_text_color">#dd918d8d</color>
+    <color name="date_today_text_color">#f1d3d1</color>
+
+    <color name="date_weekend_text_color">#f27e9d</color>
 </resources>
