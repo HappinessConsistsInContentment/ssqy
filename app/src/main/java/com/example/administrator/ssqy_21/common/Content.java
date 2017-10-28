@@ -6,6 +6,6 @@ package com.example.administrator.ssqy_21.common;
 
 public class Content {
     public static final int i=10;
-    public static final String str="ssqy_ytf";
+    public static final String str="ssqy";
     public static final String str="ssqy_wyk";
 }
