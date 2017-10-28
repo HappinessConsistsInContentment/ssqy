@@ -5,4 +5,5 @@ package com.example.administrator.ssqy_21.common;
  */
 
 public class Content {
+    public static final int i=10;
 }
